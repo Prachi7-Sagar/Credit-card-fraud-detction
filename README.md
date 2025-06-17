@@ -55,7 +55,7 @@ Features
   
 How to Run:
 # Step 1: Clone the repository
-git clone https://github.com/your-username/credit-card-fraud-detection.git
+
 
 # Step 2: Install dependencies
 pip install -r requirements.txt
